@@ -1,0 +1,2 @@
+# rooki
+tea testnet
